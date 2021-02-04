@@ -1,4 +1,4 @@
-package oniicode.craftmgr;
+package zombie.limgr;
 
 import java.io.BufferedReader;
 import java.io.IOException;
